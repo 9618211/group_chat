@@ -1,0 +1,1986 @@
+2014-11-08 15:34:00	 REMOTE:118.205.104.138:59642
+GET /?room_id=2 HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415431232
+
+2014-11-08 15:34:05	 REMOTE:118.205.104.138:59643
+GET /?room_id=2 HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415431232
+
+2014-11-08 15:34:06	 REMOTE:118.205.104.138:59644
+GET /?room_id=2 HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415431232
+
+2014-11-08 15:34:09	 REMOTE:118.205.104.138:59647
+GET / HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415431232
+
+2014-11-08 15:34:09	 REMOTE:118.205.104.138:59648
+GET /js/chat.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415431232
+
+2014-11-08 15:34:15	 REMOTE:118.205.104.138:59650
+GET / HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415432027
+
+2014-11-08 15:34:15	 REMOTE:118.205.104.138:59651
+GET /js/chat.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415432027
+If-Modified-Since: Sat, 08 Nov 2014 15:22:35 GMT
+
+2014-11-08 15:34:17	 REMOTE:118.205.104.138:59652
+GET /? HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415432032
+
+2014-11-08 15:34:17	 REMOTE:118.205.104.138:59653
+GET /js/chat.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: */*
+If-Modified-Since: Sat, 08 Nov 2014 15:22:35 GMT
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415432032
+
+2014-11-08 15:34:23	 REMOTE:118.205.104.138:59655
+GET /? HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415432035
+
+2014-11-08 15:34:23	 REMOTE:118.205.104.138:59656
+GET /js/chat.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: */*
+If-Modified-Since: Sat, 08 Nov 2014 15:22:35 GMT
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415432035
+
+2014-11-08 15:34:25	 REMOTE:118.205.104.138:59657
+GET /? HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415432040
+
+2014-11-08 15:34:25	 REMOTE:118.205.104.138:59658
+GET /js/chat.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: */*
+If-Modified-Since: Sat, 08 Nov 2014 15:22:35 GMT
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415432040
+
+2014-11-08 15:37:51	 REMOTE:118.205.104.138:59674
+GET /? HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415432042
+
+2014-11-08 15:37:51	 REMOTE:118.205.104.138:59675
+GET /js/chat.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: */*
+If-Modified-Since: Sat, 08 Nov 2014 15:22:35 GMT
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415432042
+
+2014-11-08 15:38:10	 REMOTE:118.205.104.138:59673
+GET /? HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415432249
+
+2014-11-08 15:38:11	 REMOTE:118.205.104.138:59681
+GET /js/chat.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: */*
+If-Modified-Since: Sat, 08 Nov 2014 15:22:35 GMT
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415432249
+
+2014-11-08 15:38:14	 REMOTE:118.205.104.138:59682
+GET / HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415432268
+
+2014-11-08 15:38:14	 REMOTE:118.205.104.138:59683
+GET /js/chat.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: */*
+If-Modified-Since: Sat, 08 Nov 2014 15:22:35 GMT
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415432268
+
+2014-11-08 15:38:17	 REMOTE:118.205.104.138:59684
+GET / HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415432271
+
+2014-11-08 15:38:17	 REMOTE:118.205.104.138:59689
+GET /js/chat.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: */*
+If-Modified-Since: Sat, 08 Nov 2014 15:22:35 GMT
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415432271
+
+2014-11-08 15:40:12	 REMOTE:118.205.104.138:59694
+GET / HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415432275
+
+2014-11-08 15:40:12	 REMOTE:118.205.104.138:59695
+GET /js/chat.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: */*
+If-Modified-Since: Sat, 08 Nov 2014 15:22:35 GMT
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415432275
+
+2014-11-08 15:44:36	 REMOTE:118.205.104.138:59754
+GET / HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415432390
+
+2014-11-08 15:44:36	 REMOTE:118.205.104.138:59755
+GET /js/chat.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: */*
+If-Modified-Since: Sat, 08 Nov 2014 15:22:35 GMT
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415432390
+
+2014-11-08 15:44:40	 REMOTE:118.205.104.138:59753
+GET / HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415432653
+
+2014-11-08 15:44:40	 REMOTE:118.205.104.138:59762
+GET /js/chat.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: */*
+If-Modified-Since: Sat, 08 Nov 2014 15:22:35 GMT
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415432653
+
+2014-11-08 15:44:43	 REMOTE:118.205.104.138:59761
+GET /?room_id=2 HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415432657
+
+2014-11-08 15:44:44	 REMOTE:118.205.104.138:59763
+GET /js/chat.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: */*
+If-Modified-Since: Sat, 08 Nov 2014 15:22:35 GMT
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=2
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415432657
+
+2014-11-08 15:44:44	 REMOTE:118.205.104.138:59764
+GET /?room_id=2 HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=2
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415432661
+
+2014-11-08 15:44:44	 REMOTE:118.205.104.138:59765
+GET /js/chat.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: */*
+If-Modified-Since: Sat, 08 Nov 2014 15:22:35 GMT
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=2
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415432661
+
+2014-11-08 15:44:45	 REMOTE:118.205.104.138:59766
+GET /?room_id=3 HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=2
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415432662
+
+2014-11-08 15:44:45	 REMOTE:118.205.104.138:59767
+GET /js/chat.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: */*
+If-Modified-Since: Sat, 08 Nov 2014 15:22:35 GMT
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=3
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415432662
+
+2014-11-08 15:44:46	 REMOTE:118.205.104.138:59768
+GET /?room_id=4 HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=3
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415432663
+
+2014-11-08 15:44:46	 REMOTE:118.205.104.138:59769
+GET /js/chat.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: */*
+If-Modified-Since: Sat, 08 Nov 2014 15:22:35 GMT
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=4
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415432663
+
+2014-11-08 15:48:24	 REMOTE:118.205.104.138:59782
+GET /?room_id=4 HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415432663
+
+2014-11-08 15:48:24	 REMOTE:118.205.104.138:59785
+GET /js/chat.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: */*
+If-Modified-Since: Sat, 08 Nov 2014 15:22:35 GMT
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=4
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415432663
+
+2014-11-08 15:48:39	 REMOTE:118.205.104.138:59783
+GET / HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415432882
+
+2014-11-08 15:48:39	 REMOTE:118.205.104.138:59784
+GET /js/chat.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: */*
+If-Modified-Since: Sat, 08 Nov 2014 15:22:35 GMT
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415432882
+
+2014-11-08 15:49:02	 REMOTE:118.205.104.138:59807
+GET /?room_id=4 HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415432896
+
+2014-11-08 15:49:02	 REMOTE:118.205.104.138:59809
+GET /js/chat.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: */*
+If-Modified-Since: Sat, 08 Nov 2014 15:47:50 GMT
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=4
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415432896
+
+2014-11-08 15:58:38	 REMOTE:118.205.104.138:59953
+GET /?room_id=4 HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415432920
+
+2014-11-08 15:58:39	 REMOTE:118.205.104.138:59951
+GET /js/chat.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: */*
+If-Modified-Since: Sat, 08 Nov 2014 15:47:50 GMT
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=4
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415432920
+
+2014-11-08 15:58:42	 REMOTE:118.205.104.138:59952
+GET /?room_id=4 HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415433496
+
+2014-11-08 15:58:42	 REMOTE:118.205.104.138:59966
+GET /js/chat.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: */*
+If-Modified-Since: Sat, 08 Nov 2014 15:47:50 GMT
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=4
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415433496
+
+2014-11-08 16:04:39	 REMOTE:118.205.104.138:60052
+GET /?room_id=4 HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415433499
+
+2014-11-08 16:04:39	 REMOTE:118.205.104.138:60054
+GET /js/chat.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: */*
+If-Modified-Since: Sat, 08 Nov 2014 15:47:50 GMT
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=4
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415433499
+
+2014-11-08 16:04:46	 REMOTE:118.205.104.138:60053
+GET /?room_id=4 HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415433857
+
+2014-11-08 16:04:46	 REMOTE:118.205.104.138:60066
+GET /js/chat.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: */*
+If-Modified-Since: Sat, 08 Nov 2014 15:47:50 GMT
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=4
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415433857
+
+2014-11-08 16:06:47	 REMOTE:118.205.104.138:60112
+GET /?room_id=2 HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=4
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415433863
+
+2014-11-08 16:06:47	 REMOTE:118.205.104.138:60114
+GET /js/chat.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: */*
+If-Modified-Since: Sat, 08 Nov 2014 15:47:50 GMT
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=2
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415433863
+
+2014-11-08 16:06:50	 REMOTE:118.205.104.138:60119
+GET /?room_id=3 HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=2
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415433985
+
+2014-11-08 16:06:50	 REMOTE:118.205.104.138:60120
+GET /js/chat.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: */*
+If-Modified-Since: Sat, 08 Nov 2014 15:47:50 GMT
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=3
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415433985
+
+2014-11-08 16:06:52	 REMOTE:118.205.104.138:60122
+GET /?room_id=4 HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=3
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415433987
+
+2014-11-08 16:06:52	 REMOTE:118.205.104.138:60123
+GET /js/chat.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: */*
+If-Modified-Since: Sat, 08 Nov 2014 15:47:50 GMT
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=4
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415433987
+
+2014-11-08 16:06:55	 REMOTE:118.205.104.138:60125
+GET /?room_id=1 HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=4
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415433989
+
+2014-11-08 16:06:55	 REMOTE:118.205.104.138:60126
+GET /js/chat.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: */*
+If-Modified-Since: Sat, 08 Nov 2014 15:47:50 GMT
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=1
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415433989
+
+2014-11-08 16:06:59	 REMOTE:118.205.104.138:60128
+GET /?room_id=2 HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=1
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415433993
+
+2014-11-08 16:06:59	 REMOTE:118.205.104.138:60129
+GET /js/chat.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: */*
+If-Modified-Since: Sat, 08 Nov 2014 15:47:50 GMT
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=2
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415433993
+
+2014-11-08 16:07:01	 REMOTE:118.205.104.138:60131
+GET /?room_id=3 HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=2
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415433996
+
+2014-11-08 16:07:01	 REMOTE:118.205.104.138:60132
+GET /js/chat.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: */*
+If-Modified-Since: Sat, 08 Nov 2014 15:47:50 GMT
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=3
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415433996
+
+2014-11-08 16:07:03	 REMOTE:118.205.104.138:60134
+GET /?room_id=4 HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=3
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415433998
+
+2014-11-08 16:07:03	 REMOTE:118.205.104.138:60135
+GET /js/chat.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: */*
+If-Modified-Since: Sat, 08 Nov 2014 15:47:50 GMT
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=4
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415433998
+
+2014-11-08 16:07:08	 REMOTE:118.205.104.138:60138
+GET /?room_id=3 HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=4
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415434001
+
+2014-11-08 16:07:08	 REMOTE:118.205.104.138:60139
+GET /js/chat.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: */*
+If-Modified-Since: Sat, 08 Nov 2014 15:47:50 GMT
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=3
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415434001
+
+2014-11-08 16:07:09	 REMOTE:118.205.104.138:60141
+GET /?room_id=2 HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=3
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415434005
+
+2014-11-08 16:07:09	 REMOTE:118.205.104.138:60142
+GET /js/chat.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: */*
+If-Modified-Since: Sat, 08 Nov 2014 15:47:50 GMT
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=2
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415434005
+
+2014-11-08 16:07:11	 REMOTE:118.205.104.138:60144
+GET /?room_id=1 HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=2
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415434007
+
+2014-11-08 16:07:11	 REMOTE:118.205.104.138:60145
+GET /js/chat.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: */*
+If-Modified-Since: Sat, 08 Nov 2014 15:47:50 GMT
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=1
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415434007
+
+2014-11-08 16:07:27	 REMOTE:118.205.104.138:60147
+GET /?room_id=1 HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=1
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415434009
+
+2014-11-08 16:07:28	 REMOTE:118.205.104.138:60149
+GET /js/chat.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: */*
+If-Modified-Since: Sat, 08 Nov 2014 15:47:50 GMT
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=1
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415434009
+
+2014-11-08 16:07:30	 REMOTE:118.205.104.138:60154
+GET /?room_id=2 HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=1
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415434025
+
+2014-11-08 16:07:30	 REMOTE:118.205.104.138:60155
+GET /js/chat.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: */*
+If-Modified-Since: Sat, 08 Nov 2014 15:47:50 GMT
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=2
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415434025
+
+2014-11-08 16:07:32	 REMOTE:118.205.104.138:60157
+GET /?room_id=3 HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=2
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415434028
+
+2014-11-08 16:07:32	 REMOTE:118.205.104.138:60158
+GET /js/chat.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: */*
+If-Modified-Since: Sat, 08 Nov 2014 15:47:50 GMT
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=3
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415434028
+
+2014-11-08 16:07:33	 REMOTE:118.205.104.138:60161
+GET /?room_id=4 HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=3
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415434029
+
+2014-11-08 16:07:33	 REMOTE:118.205.104.138:60162
+GET /js/chat.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: */*
+If-Modified-Since: Sat, 08 Nov 2014 15:47:50 GMT
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=4
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415434029
+
+2014-11-08 16:50:27	 REMOTE:118.205.104.138:60374
+GET /?room_id=4 HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415434031
+
+2014-11-08 16:50:27	 REMOTE:118.205.104.138:60373
+GET /js/chat.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: */*
+If-Modified-Since: Sat, 08 Nov 2014 15:47:50 GMT
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=4
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415434031
+
+2014-11-08 16:50:41	 REMOTE:118.205.104.138:60375
+GET /?room_id=4 HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415436605
+
+2014-11-08 16:50:41	 REMOTE:118.205.104.138:60386
+GET /js/chat.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: */*
+If-Modified-Since: Sat, 08 Nov 2014 15:47:50 GMT
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=4
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415436605
+
+2014-11-08 16:50:46	 REMOTE:118.205.104.138:60387
+GET /?room_id=4 HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415436619
+
+2014-11-08 16:50:46	 REMOTE:118.205.104.138:60391
+GET /js/chat.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: */*
+If-Modified-Since: Sat, 08 Nov 2014 15:47:50 GMT
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=4
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415436619
+
+2014-11-08 16:50:59	 REMOTE:118.205.104.138:60399
+GET /?room_id=4 HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415436623
+
+2014-11-08 16:50:59	 REMOTE:118.205.104.138:60400
+GET /js/chat.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=4
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415431149; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415436623
+If-Modified-Since: Sat, 08 Nov 2014 15:47:50 GMT
+
+2014-11-09 16:19:22	 REMOTE:118.205.104.138:54316
+GET /?room_id=4 HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+
+2014-11-09 16:19:23	 REMOTE:118.205.104.138:54317
+GET /css/bootstrap.min.css HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/css,*/*;q=0.1
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=4
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+
+2014-11-09 16:19:23	 REMOTE:118.205.104.138:54319
+GET /css/style.css HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/css,*/*;q=0.1
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=4
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+
+2014-11-09 16:19:23	 REMOTE:118.205.104.138:54320
+GET /js/json.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=4
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+
+2014-11-09 16:19:23	 REMOTE:118.205.104.138:54321
+GET /js/web_socket.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=4
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+
+2014-11-09 16:19:23	 REMOTE:118.205.104.138:54323
+GET /js/swfobject.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=4
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+
+2014-11-09 16:19:23	 REMOTE:118.205.104.138:54322
+GET /js/jquery.min.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=4
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+
+2014-11-09 16:19:23	 REMOTE:118.205.104.138:54325
+GET /js/chat.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=4
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+
+2014-11-09 23:10:21	 REMOTE:118.205.104.138:64971
+GET / HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415521139
+
+2014-11-09 23:10:21	 REMOTE:118.205.104.138:64972
+GET /css/style.css HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/css,*/*;q=0.1
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415521139
+If-Modified-Since: Thu, 06 Nov 2014 21:22:19 GMT
+
+2014-11-09 23:10:21	 REMOTE:118.205.104.138:64974
+GET /css/bootstrap.min.css HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/css,*/*;q=0.1
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415521139
+If-Modified-Since: Thu, 06 Nov 2014 21:22:19 GMT
+
+2014-11-09 23:10:21	 REMOTE:118.205.104.138:64973
+GET /js/swfobject.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415521139
+If-Modified-Since: Thu, 06 Nov 2014 21:22:19 GMT
+
+2014-11-09 23:10:21	 REMOTE:118.205.104.138:64981
+GET /js/json.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415521139
+If-Modified-Since: Thu, 06 Nov 2014 21:22:19 GMT
+
+2014-11-09 23:10:21	 REMOTE:118.205.104.138:64980
+GET /js/web_socket.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415521139
+If-Modified-Since: Sat, 08 Nov 2014 15:19:28 GMT
+
+2014-11-09 23:10:21	 REMOTE:118.205.104.138:64979
+GET /js/jquery.min.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415521139
+If-Modified-Since: Thu, 06 Nov 2014 21:22:19 GMT
+
+2014-11-09 23:10:21	 REMOTE:118.205.104.138:64982
+GET /js/chat.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415521139
+If-Modified-Since: Sat, 08 Nov 2014 15:47:50 GMT
+
+2014-11-09 23:10:22	 REMOTE:118.205.104.138:64984
+GET /favicon.ico HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415521139,1415545798; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415545798
+
+2014-11-09 23:10:33	 REMOTE:183.60.35.94:40899
+GET / HTTP/1.1
+Host: 114.215.178.148:55151
+Accept: */*
+Accept-Charset: GB2312,utf-8;q=0.7,*;q=0.7
+Accept-Language: zh-cn, zh
+User-Agent: Mozilla/4.0
+Connection: close
+
+2014-11-09 23:10:33	 REMOTE:183.60.35.94:40909
+GET /js/swfobject.js HTTP/1.1
+Host: 114.215.178.148:55151
+Accept: */*
+Accept-Charset: GB2312,utf-8;q=0.7,*;q=0.7
+Accept-Language: zh-cn, zh
+User-Agent: Mozilla/4.0
+Referer: http://114.215.178.148:55151/js/swfobject.js 
+Connection: close
+
+2014-11-09 23:10:33	 REMOTE:183.60.35.94:40911
+GET /js/json.js HTTP/1.1
+Host: 114.215.178.148:55151
+Accept: */*
+Accept-Charset: GB2312,utf-8;q=0.7,*;q=0.7
+Accept-Language: zh-cn, zh
+User-Agent: Mozilla/4.0
+Referer: http://114.215.178.148:55151/js/json.js 
+Connection: close
+
+2014-11-09 23:10:33	 REMOTE:183.60.35.94:40913
+GET /js/chat.js HTTP/1.1
+Host: 114.215.178.148:55151
+Accept: */*
+Accept-Charset: GB2312,utf-8;q=0.7,*;q=0.7
+Accept-Language: zh-cn, zh
+User-Agent: Mozilla/4.0
+Referer: http://114.215.178.148:55151/js/chat.js 
+Connection: close
+
+2014-11-09 23:10:33	 REMOTE:183.60.35.94:40910
+GET /js/web_socket.js HTTP/1.1
+Host: 114.215.178.148:55151
+Accept: */*
+Accept-Charset: GB2312,utf-8;q=0.7,*;q=0.7
+Accept-Language: zh-cn, zh
+User-Agent: Mozilla/4.0
+Referer: http://114.215.178.148:55151/js/web_socket.js 
+Connection: close
+
+2014-11-09 23:10:33	 REMOTE:183.60.35.94:40912
+GET /js/jquery.min.js HTTP/1.1
+Host: 114.215.178.148:55151
+Accept: */*
+Accept-Charset: GB2312,utf-8;q=0.7,*;q=0.7
+Accept-Language: zh-cn, zh
+User-Agent: Mozilla/4.0
+Referer: http://114.215.178.148:55151/js/jquery.min.js 
+Connection: close
+
+2014-11-09 23:12:04	 REMOTE:119.147.146.189:13247
+GET / HTTP/1.1
+Host: 114.215.178.148:55151
+accept-language: zh-CN,zh;q=0.8
+accept-encoding: gzip,deflate,sdch
+accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+user-agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; MAXTHON 2.0);
+accept-charset: UTF-8,*;q=0.5
+cookie: ASPSESSIONIDQASBQDRC=HJNCEIDDOOKIJECJODIJEKMD;ASPSESSIONIDQSCCTADB=ACDBJAOCGNMMIABENILOEENF;
+
+2014-11-09 23:12:04	 REMOTE:119.147.146.189:59740
+GET /js/swfobject.js HTTP/1.1
+Host: 114.215.178.148:55151
+accept-language: zh-CN,zh;q=0.8
+accept-encoding: gzip,deflate,sdch
+accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+user-agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; MAXTHON 2.0);
+accept-charset: UTF-8,*;q=0.5
+cookie: ASPSESSIONIDQASBQDRC=HJNCEIDDOOKIJECJODIJEKMD;ASPSESSIONIDQSCCTADB=ACDBJAOCGNMMIABENILOEENF;
+
+2014-11-09 23:12:05	 REMOTE:118.205.104.138:65023
+GET / HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415521139,1415545798; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415545798
+
+2014-11-09 23:12:06	 REMOTE:222.50.50.82:5268
+GET / HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+
+2014-11-09 23:12:06	 REMOTE:222.50.50.82:5522
+GET /css/bootstrap.min.css HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/css,*/*;q=0.1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36
+Referer: http://114.215.178.148:55151/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+
+2014-11-09 23:12:06	 REMOTE:222.50.50.82:5661
+GET /css/style.css HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/css,*/*;q=0.1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36
+Referer: http://114.215.178.148:55151/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+
+2014-11-09 23:12:06	 REMOTE:222.50.50.82:5678
+GET /js/swfobject.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36
+Referer: http://114.215.178.148:55151/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+
+2014-11-09 23:12:06	 REMOTE:222.50.50.82:5954
+GET /js/web_socket.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36
+Referer: http://114.215.178.148:55151/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+
+2014-11-09 23:12:06	 REMOTE:222.50.50.82:5439
+GET /js/json.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36
+Referer: http://114.215.178.148:55151/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+
+2014-11-09 23:12:06	 REMOTE:222.50.50.82:5996
+GET /js/jquery.min.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36
+Referer: http://114.215.178.148:55151/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+
+2014-11-09 23:12:07	 REMOTE:222.50.50.82:5744
+GET /js/chat.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36
+Referer: http://114.215.178.148:55151/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+
+2014-11-09 23:12:08	 REMOTE:222.50.50.82:5646
+GET /favicon.ico HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415545928; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415545928
+
+2014-11-09 23:12:12	 REMOTE:118.205.104.138:65024
+GET /?room_id=1 HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415521139,1415545798; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415545902
+
+2014-11-09 23:12:13	 REMOTE:118.205.104.138:65027
+GET /?room_id=2 HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=1
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415521139,1415545798; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415545908
+
+2014-11-09 23:12:15	 REMOTE:118.205.104.138:65025
+GET /?room_id=3 HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=2
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415521139,1415545798; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415545910
+
+2014-11-09 23:12:16	 REMOTE:118.205.104.138:65026
+GET /?room_id=4 HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=3
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415521139,1415545798; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415545911
+
+2014-11-09 23:12:23	 REMOTE:118.205.104.138:65028
+GET /?room_id=3 HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=4
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415521139,1415545798; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415545913
+
+2014-11-09 23:12:25	 REMOTE:118.205.104.138:65046
+GET /?room_id=2 HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=3
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415521139,1415545798; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415545919
+
+2014-11-09 23:12:30	 REMOTE:118.205.104.138:65050
+GET /?room_id=1 HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=2
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415521139,1415545798; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415545921
+
+2014-11-09 23:20:17	 REMOTE:118.205.104.138:65136
+GET /?room_id=2 HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=1
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415521139,1415545798; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415545926
+
+2014-11-09 23:20:20	 REMOTE:118.205.104.138:65142
+GET /?room_id=3 HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=2
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415521139,1415545798; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415546394
+
+2014-11-09 23:20:21	 REMOTE:118.205.104.138:65144
+GET /?room_id=4 HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=3
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415521139,1415545798; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415546396
+
+2014-11-09 23:20:22	 REMOTE:118.205.104.138:65146
+GET /?room_id=1 HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2166.2 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=4
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415521139,1415545798; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415546397
+
+2014-11-10 10:03:17	 REMOTE:101.95.23.150:5370
+GET / HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+
+2014-11-10 10:03:17	 REMOTE:101.95.23.150:58831
+GET /css/bootstrap.min.css HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/css,*/*;q=0.1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+Referer: http://114.215.178.148:55151/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+
+2014-11-10 10:03:17	 REMOTE:101.95.23.150:6224
+GET /css/style.css HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/css,*/*;q=0.1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+Referer: http://114.215.178.148:55151/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+
+2014-11-10 10:03:17	 REMOTE:101.95.23.150:13337
+GET /js/swfobject.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+Referer: http://114.215.178.148:55151/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+
+2014-11-10 10:03:17	 REMOTE:101.95.23.150:33109
+GET /js/web_socket.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+Referer: http://114.215.178.148:55151/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+
+2014-11-10 10:03:17	 REMOTE:101.95.23.150:30831
+GET /js/json.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+Referer: http://114.215.178.148:55151/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+
+2014-11-10 10:03:17	 REMOTE:101.95.23.150:10640
+GET /js/jquery.min.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+Referer: http://114.215.178.148:55151/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+
+2014-11-10 10:03:17	 REMOTE:101.95.23.150:65471
+GET /js/chat.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+Referer: http://114.215.178.148:55151/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+
+2014-11-10 10:03:19	 REMOTE:101.95.23.150:46287
+GET /favicon.ico HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415584903; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415584903
+
+2014-11-10 10:03:43	 REMOTE:113.240.227.27:51445
+GET / HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6,ja;q=0.4
+
+2014-11-10 10:03:43	 REMOTE:113.240.227.27:51446
+GET /css/bootstrap.min.css HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/css,*/*;q=0.1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+Referer: http://114.215.178.148:55151/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6,ja;q=0.4
+
+2014-11-10 10:03:43	 REMOTE:113.240.227.27:51447
+GET /css/style.css HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/css,*/*;q=0.1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+Referer: http://114.215.178.148:55151/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6,ja;q=0.4
+
+2014-11-10 10:03:43	 REMOTE:113.240.227.27:51448
+GET /js/swfobject.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+Referer: http://114.215.178.148:55151/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6,ja;q=0.4
+
+2014-11-10 10:03:43	 REMOTE:113.240.227.27:51449
+GET /js/web_socket.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+Referer: http://114.215.178.148:55151/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6,ja;q=0.4
+
+2014-11-10 10:03:43	 REMOTE:113.240.227.27:51450
+GET /js/json.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+Referer: http://114.215.178.148:55151/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6,ja;q=0.4
+
+2014-11-10 10:03:43	 REMOTE:113.240.227.27:51451
+GET /js/jquery.min.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+Referer: http://114.215.178.148:55151/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6,ja;q=0.4
+
+2014-11-10 10:03:43	 REMOTE:113.240.227.27:51452
+GET /js/chat.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+Referer: http://114.215.178.148:55151/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6,ja;q=0.4
+
+2014-11-10 10:03:45	 REMOTE:113.240.227.27:51455
+GET /favicon.ico HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6,ja;q=0.4
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415585018; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415585018
+
+2014-11-10 10:04:11	 REMOTE:113.240.253.251:26572
+GET / HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4
+
+2014-11-10 10:04:11	 REMOTE:113.240.253.251:26573
+GET /css/bootstrap.min.css HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/css,*/*;q=0.1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+Referer: http://114.215.178.148:55151/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4
+
+2014-11-10 10:04:11	 REMOTE:113.240.253.251:26587
+GET /css/style.css HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/css,*/*;q=0.1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+Referer: http://114.215.178.148:55151/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4
+
+2014-11-10 10:04:11	 REMOTE:113.240.253.251:26589
+GET /js/swfobject.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+Referer: http://114.215.178.148:55151/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4
+
+2014-11-10 10:04:11	 REMOTE:113.240.253.251:26588
+GET /js/web_socket.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+Referer: http://114.215.178.148:55151/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4
+
+2014-11-10 10:04:11	 REMOTE:113.240.253.251:26590
+GET /js/json.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+Referer: http://114.215.178.148:55151/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4
+
+2014-11-10 10:04:11	 REMOTE:113.240.253.251:26586
+GET /js/jquery.min.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+Referer: http://114.215.178.148:55151/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4
+
+2014-11-10 10:04:12	 REMOTE:113.240.253.251:26593
+GET /js/chat.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+Referer: http://114.215.178.148:55151/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4
+
+2014-11-10 10:04:12	 REMOTE:113.240.253.251:26639
+GET /favicon.ico HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415585053; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415585053
+
+2014-11-10 10:04:31	 REMOTE:113.240.253.251:27969
+GET /?room_id=2 HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+Referer: http://114.215.178.148:55151/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415585053; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415585053
+
+2014-11-10 10:04:34	 REMOTE:113.240.253.251:28240
+GET /?room_id=1 HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=2
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415585053; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415585071
+
+2014-11-10 10:04:36	 REMOTE:113.240.253.251:28367
+GET /?room_id=3 HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+Referer: http://114.215.178.148:55151/?room_id=1
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415585053; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415585075
+
+2014-11-10 10:08:46	 REMOTE:101.95.23.150:35574
+GET / HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415584903; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415584903
+
+2014-11-10 10:08:52	 REMOTE:101.95.23.150:51285
+GET / HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415584903; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415585231
+
+2014-11-10 10:12:45	 REMOTE:101.95.23.150:61540
+GET / HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415584903; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415585237
+
+2014-11-10 10:12:56	 REMOTE:101.95.23.150:60394
+GET / HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415584903; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415585470
+
+2014-11-10 10:13:25	 REMOTE:101.95.23.150:10289
+GET / HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415584903; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415585481
+
+2014-11-10 10:13:48	 REMOTE:101.95.23.150:51498
+GET / HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415584903; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415585510
+
+2014-11-10 10:16:09	 REMOTE:113.240.227.27:51641
+GET / HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6,ja;q=0.4
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415585018; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415585018
+
+2014-11-10 10:16:20	 REMOTE:113.240.227.27:51642
+GET / HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6,ja;q=0.4
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415585018; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415585762
+
+2014-11-10 10:16:20	 REMOTE:113.240.227.27:51644
+GET /css/bootstrap.min.css HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/css,*/*;q=0.1
+If-Modified-Since: Thu, 06 Nov 2014 21:22:19 GMT
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+Referer: http://114.215.178.148:55151/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6,ja;q=0.4
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415585018; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415585762
+
+2014-11-10 10:16:20	 REMOTE:113.240.227.27:51643
+GET /css/style.css HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/css,*/*;q=0.1
+If-Modified-Since: Thu, 06 Nov 2014 21:22:19 GMT
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+Referer: http://114.215.178.148:55151/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6,ja;q=0.4
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415585018; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415585762
+
+2014-11-10 10:16:20	 REMOTE:113.240.227.27:51653
+GET /js/swfobject.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: */*
+If-Modified-Since: Thu, 06 Nov 2014 21:22:19 GMT
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+Referer: http://114.215.178.148:55151/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6,ja;q=0.4
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415585018; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415585762
+
+2014-11-10 10:16:20	 REMOTE:113.240.227.27:51655
+GET /js/web_socket.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: */*
+If-Modified-Since: Sat, 08 Nov 2014 15:19:28 GMT
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+Referer: http://114.215.178.148:55151/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6,ja;q=0.4
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415585018; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415585762
+
+2014-11-10 10:16:20	 REMOTE:113.240.227.27:51656
+GET /js/jquery.min.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: */*
+If-Modified-Since: Thu, 06 Nov 2014 21:22:19 GMT
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+Referer: http://114.215.178.148:55151/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6,ja;q=0.4
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415585018; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415585762
+
+2014-11-10 10:16:20	 REMOTE:113.240.227.27:51654
+GET /js/json.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: */*
+If-Modified-Since: Thu, 06 Nov 2014 21:22:19 GMT
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+Referer: http://114.215.178.148:55151/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6,ja;q=0.4
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415585018; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415585762
+
+2014-11-10 10:16:20	 REMOTE:113.240.227.27:51657
+GET /js/chat.js HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: */*
+If-Modified-Since: Sat, 08 Nov 2014 15:47:50 GMT
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+Referer: http://114.215.178.148:55151/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6,ja;q=0.4
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415585018; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415585762
+
+2014-11-10 10:16:30	 REMOTE:101.95.23.150:26625
+GET / HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415584903; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415585533
+
+2014-11-10 10:31:36	 REMOTE:101.95.23.150:48925
+GET / HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415584903; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415585695
+
+2014-11-10 11:14:12	 REMOTE:101.95.23.150:24770
+GET / HTTP/1.1
+Host: 114.215.178.148:55151
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+Cookie: Hm_lvt_7b1919221e89d2aa5711e4deb935debd=1415584903; Hm_lpvt_7b1919221e89d2aa5711e4deb935debd=1415586601
+
